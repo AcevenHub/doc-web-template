@@ -1,5 +1,6 @@
 # doc-web-template
-![example workflow](https://github.com/github/doc-web-template/actions/workflows/ci.yml/badge.svg)
+
+![example workflow](https://github.com/acevenhub/doc-web-template/actions/workflows/ci.yml/badge.svg)
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
